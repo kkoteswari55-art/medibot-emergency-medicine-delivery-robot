@@ -1,0 +1,6 @@
+{
+  "name": "MediBot – Emergency Medicine Delivery Robot",
+  "description": "Autonomous emergency medicine delivery robot control and monitoring system with multilingual voice commands for Indian hospitals and campuses, live telemetry tracking, obstacle avoidance, and safety protocols.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
